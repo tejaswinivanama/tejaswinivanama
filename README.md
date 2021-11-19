@@ -1,16 +1,20 @@
 ### Hi there 👋
 
+
+
+
 <!--
-**tejaswinivanama/tejaswinivanama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"> 👋 </h1>
+<div align="center">
+</div>
+<p align="center"> (Open for Learning)</p>  --->  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>Hello! My name is Tejaswini Vanama. I have 4+ years of experience in IT industry as a Software Tester. I am having firsthand experience in Automation Framework design using Selenium with Java, TestNG, POM, Data Driven Framework, Maven, Jenkins etc. Please find below my repositories I have implemented for personal growth. 
+  </samp>
+  <br> <br>
+
+  
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/tejaswini-vanama/)
